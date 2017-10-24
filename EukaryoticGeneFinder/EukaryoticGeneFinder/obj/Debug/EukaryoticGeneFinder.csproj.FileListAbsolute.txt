@@ -1,0 +1,15 @@
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\bin\Debug\EukaryoticGeneFinder.exe.config
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\bin\Debug\EukaryoticGeneFinder.exe
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\bin\Debug\EukaryoticGeneFinder.pdb
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\obj\Debug\EukaryoticGeneFinder.csprojResolveAssemblyReference.cache
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\obj\Debug\MainWindow.g.cs
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\obj\Debug\App.g.cs
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\obj\Debug\EukaryoticGeneFinder_MarkupCompile.cache
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\obj\Debug\EukaryoticGeneFinder_MarkupCompile.lref
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\obj\Debug\MainWindow.baml
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\obj\Debug\EukaryoticGeneFinder.g.resources
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\obj\Debug\EukaryoticGeneFinder.Properties.Resources.resources
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\obj\Debug\EukaryoticGeneFinder.csproj.GenerateResource.Cache
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\obj\Debug\EukaryoticGeneFinder.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\obj\Debug\EukaryoticGeneFinder.exe
+C:\Users\alex_\Documents\SoftwareDevelopment\EukaryoticGeneFinder\EukaryoticGeneFinder\EukaryoticGeneFinder\obj\Debug\EukaryoticGeneFinder.pdb
